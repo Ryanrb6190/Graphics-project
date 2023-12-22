@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTypeDate xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <TypeDate>
+    <guid>00d685d3f27d6a14590d40e8c8e5393b</guid>
+    <fileName>Assets/plugins/UnitySweeper/Editor/AssetCollector.cs</fileName>
+    <timeStamp>2023-12-22T14:38:13.6974021+00:00</timeStamp>
+    <typeFullName />
+    <assembly>Assembly-CSharp-Editor-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>eed42d6499fc76c4ba19c2e84428bfee</guid>
+    <fileName>Assets/plugins/UnitySweeper/Editor/AssetReferenceCollection.cs</fileName>
+    <timeStamp>2023-12-22T14:38:13.7354167+00:00</timeStamp>
+    <typeFullName />
+    <assembly>Assembly-CSharp-Editor-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e97d1385f5afc2a42b8578054f6c39b2</guid>
+    <fileName>Assets/plugins/UnitySweeper/Editor/ClassReferenceCollection.cs</fileName>
+    <timeStamp>2023-12-22T14:38:13.7740273+00:00</timeStamp>
+    <typeFullName />
+    <assembly>Assembly-CSharp-Editor-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>71d1c45743375c14b81ad2d701b49e03</guid>
+    <fileName>Assets/plugins/UnitySweeper/Editor/CollectionData.cs</fileName>
+    <timeStamp>2023-12-22T14:38:13.7948418+00:00</timeStamp>
+    <typeFullName />
+    <assembly>Assembly-CSharp-Editor-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>eebe91ce17204ef4e8dc312c84ff7955</guid>
+    <fileName>Assets/plugins/UnitySweeper/Editor/FindUnusedAssetsWindow.cs</fileName>
+    <timeStamp>2023-12-22T14:38:13.8168466+00:00</timeStamp>
+    <typeFullName />
+    <assembly>Assembly-CSharp-Editor-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>7e5858e763bdb5e488e4150d685970ba</guid>
+    <fileName>Assets/plugins/UnitySweeper/Editor/ShaderReferenceCollection.cs</fileName>
+    <timeStamp>2023-12-22T14:38:13.8434151+00:00</timeStamp>
+    <typeFullName />
+    <assembly>Assembly-CSharp-Editor-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>1ec920c63e1d8ad4198465d60ada67b5</guid>
+    <fileName>Assets/Final Scripts/CharController_Motor.cs</fileName>
+    <timeStamp>2023-12-22T13:12:57.9385332+00:00</timeStamp>
+    <typeFullName>
+      <string>CharController_Motor</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>39315e106bf459942b3a3e94126ec216</guid>
+    <fileName>Assets/Final Scripts/FPSCounter.cs</fileName>
+    <timeStamp>2023-12-22T03:11:59.5662679+00:00</timeStamp>
+    <typeFullName>
+      <string>FPSCounter</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>35b1b89ddfc41944aa764be2319220e8</guid>
+    <fileName>Assets/Final Scripts/MoveObject.cs</fileName>
+    <timeStamp>2023-12-21T16:14:27.7626879+00:00</timeStamp>
+    <typeFullName>
+      <string>MoveObject</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>dd4363f5f51307047a060d3e79ea0375</guid>
+    <fileName>Assets/Final Scripts/MoveShip.cs</fileName>
+    <timeStamp>2023-12-22T03:42:07.0176587+00:00</timeStamp>
+    <typeFullName>
+      <string>MoveShip</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ac3134f109fffcd40b014a511cb92230</guid>
+    <fileName>Assets/Final Scripts/RotateLensFlare.cs</fileName>
+    <timeStamp>2023-12-22T02:44:14.9635775+00:00</timeStamp>
+    <typeFullName>
+      <string>RotateLensFlare</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>8bc32383b0f58314091c25ed3b553fcd</guid>
+    <fileName>Assets/Final Scripts/RotateRock.cs</fileName>
+    <timeStamp>2023-12-21T15:59:08.3173789+00:00</timeStamp>
+    <typeFullName>
+      <string>RotateRock</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>cbcfb1680909042439d713314b5afee1</guid>
+    <fileName>Assets/Final Scripts/RotateSkybox.cs</fileName>
+    <timeStamp>2023-12-22T02:34:08.5239883+00:00</timeStamp>
+    <typeFullName>
+      <string>RotateSkybox</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+</ArrayOfTypeDate>
