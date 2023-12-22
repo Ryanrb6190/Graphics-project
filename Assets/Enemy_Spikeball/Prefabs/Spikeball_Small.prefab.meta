@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8f445961f3af4734eab6b615aef5f1e5
+NativeFormatImporter:
+  mainObjectFileID: -1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 116938
+  packageName: "Shoot\xB4em up Enemy Spikeball"
+  packageVersion: 1.0
+  assetPath: Assets/Enemy_Spikeball/Prefabs/Spikeball_Small.prefab
+  uploadId: 524625

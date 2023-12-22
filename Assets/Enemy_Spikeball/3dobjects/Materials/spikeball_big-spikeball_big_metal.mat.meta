@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 95e17375eabc04a429811b9499b3dc8e
+NativeFormatImporter:
+  mainObjectFileID: -1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 116938
+  packageName: "Shoot\xB4em up Enemy Spikeball"
+  packageVersion: 1.0
+  assetPath: Assets/Enemy_Spikeball/3dobjects/Materials/spikeball_big-spikeball_big_metal.mat
+  uploadId: 524625
